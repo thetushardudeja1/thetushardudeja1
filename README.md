@@ -72,6 +72,12 @@ devices. Alongside that I build hardware, EDA and ML tools for reliability and p
 **Digital & EDA:** SystemVerilog, Cadence Xcelium / Genus / Innovus / Conformal, Siemens Catapult HLS, OpenROAD
 **Programming & ML:** Python, PyTorch, scikit-learn, C/C++, MATLAB, TCL, Linux / HPC
 
+### 🎓 Certifications
+
+| Certificate | Issuer | Date | Verify |
+|---|---|---|---|
+| Unsupervised Learning, Recommenders, Reinforcement Learning | DeepLearning.AI (Coursera) | Jul 2025 | [credential](https://www.coursera.org/account/accomplishments/verify/HVE5R5SOUBZN) |
+
 ### 💼 Experience
 
 **Research Intern, Reinforcement Learning**, DRDO, Institute for Systems Studies and Analyses (ISSA), Ministry of Defence · May–Jun 2026
