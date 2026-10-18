@@ -1,12 +1,23 @@
-# Tushar Dudeja
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F8CE6,100:2E3A87&height=180&section=header&text=Tushar%20Dudeja&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Device%20%E2%80%A2%20Reliability%20%E2%80%A2%20Device-to-Circuit%20Design&descSize=18&descAlignY=58" alt="Tushar Dudeja" />
+</p>
 
-**Semiconductor device & compact modelling · reliability · device-to-circuit design**
-B.Tech. Electronics Engineering (VLSI Design), Vellore Institute of Technology (VIT), India · expected 2028
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=7F8CE6&center=true&vCenter=true&width=720&lines=Semiconductor+device+%26+compact+modelling;CFET+self-heating%2C+aging+and+variability+in+TCAD;From+TCAD+to+BSIM-CMG+to+circuits;IEEE+EDS+TCAD+Hackathon+2026+%E2%80%94+Top-3+Winner" alt="Typing animation" />
+</p>
 
-[![Email](https://img.shields.io/badge/Email-tushar.dudeja09%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:tushar.dudeja09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tushardudeja-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushardudeja)
+<p align="center">
+  <a href="mailto:tushar.dudeja09@gmail.com"><img src="https://img.shields.io/badge/Email-tushar.dudeja09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/tushardudeja"><img src="https://img.shields.io/badge/LinkedIn-tushardudeja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=thetushardudeja1&color=7F8CE6&style=for-the-badge&label=Profile+views" alt="Profile views" />
+</p>
 
-🏆 **Top-3 Winner, IEEE Electron Devices Society TCAD Hackathon 2026 (international)** · US$1,000 award + travel grant to IEEE EDTM 2027, Fukuoka
+<p align="center">
+  <b>B.Tech. Electronics Engineering (VLSI Design)</b> · Vellore Institute of Technology (VIT), India · expected 2028
+</p>
+
+> 🏆 **Top-3 Winner, IEEE Electron Devices Society TCAD Hackathon 2026 (international)**
+> US$1,000 award + travel grant to **IEEE EDTM 2027**, Fukuoka, Japan
 
 ---
 
@@ -67,10 +78,17 @@ devices. Alongside that I build hardware, EDA and ML tools for reliability and p
 
 ### 🧰 Tools
 
-**TCAD & atomistic:** Synopsys Sentaurus (SDE, SDevice, SVisual), Silvaco Victory, QuantumATK, QTCAD
-**Circuits & compact models:** BSIM-CMG extraction, PrimeSim HSPICE (high-sigma Monte Carlo), ngspice, Cadence Virtuoso / Spectre
-**Digital & EDA:** SystemVerilog, Cadence Xcelium / Genus / Innovus / Conformal, Siemens Catapult HLS, OpenROAD
-**Programming & ML:** Python, PyTorch, scikit-learn, C/C++, MATLAB, TCL, Linux / HPC
+**TCAD & atomistic**
+<img src="https://img.shields.io/badge/Synopsys%20Sentaurus-5A2D82?style=flat-square" alt="Synopsys Sentaurus" /> <img src="https://img.shields.io/badge/Silvaco%20Victory-0B6E4F?style=flat-square" alt="Silvaco Victory" /> <img src="https://img.shields.io/badge/QuantumATK-1F6FB2?style=flat-square" alt="QuantumATK" /> <img src="https://img.shields.io/badge/QTCAD-3B3B98?style=flat-square" alt="QTCAD" />
+
+**Circuits & compact models**
+<img src="https://img.shields.io/badge/BSIM--CMG-444444?style=flat-square" alt="BSIM--CMG" /> <img src="https://img.shields.io/badge/PrimeSim%20HSPICE-5A2D82?style=flat-square" alt="PrimeSim HSPICE" /> <img src="https://img.shields.io/badge/High--sigma%20Monte%20Carlo-6A1B9A?style=flat-square" alt="High--sigma Monte Carlo" /> <img src="https://img.shields.io/badge/ngspice-2E7D32?style=flat-square" alt="ngspice" /> <img src="https://img.shields.io/badge/Cadence%20Virtuoso%20%2F%20Spectre-C8102E?style=flat-square" alt="Cadence Virtuoso %2F Spectre" />
+
+**Digital & EDA**
+<img src="https://img.shields.io/badge/SystemVerilog-1A5276?style=flat-square" alt="SystemVerilog" /> <img src="https://img.shields.io/badge/Cadence%20Genus%20%2F%20Innovus-C8102E?style=flat-square" alt="Cadence Genus %2F Innovus" /> <img src="https://img.shields.io/badge/Xcelium%20%2F%20Conformal-C8102E?style=flat-square" alt="Xcelium %2F Conformal" /> <img src="https://img.shields.io/badge/Catapult%20HLS-00838F?style=flat-square" alt="Catapult HLS" /> <img src="https://img.shields.io/badge/OpenROAD-37474F?style=flat-square" alt="OpenROAD" />
+
+**Programming & ML**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit--learn" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C%2B%2B" /> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" alt="MATLAB" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
 ### 🎓 Certifications
 
@@ -85,3 +103,7 @@ devices. Alongside that I build hardware, EDA and ML tools for reliability and p
 ---
 
 📫 Open to research collaborations and internships in device modelling, reliability and circuit design: **tushar.dudeja09@gmail.com**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3A87,100:7F8CE6&height=110&section=footer" alt="" />
+</p>
