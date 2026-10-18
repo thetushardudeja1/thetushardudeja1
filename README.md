@@ -9,7 +9,6 @@
 <p align="center">
   <a href="mailto:tushar.dudeja09@gmail.com"><img src="https://img.shields.io/badge/Email-tushar.dudeja09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/tushardudeja"><img src="https://img.shields.io/badge/LinkedIn-tushardudeja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=thetushardudeja1&color=7F8CE6&style=for-the-badge&label=Profile+views" alt="Profile views" />
 </p>
 
 <p align="center">
