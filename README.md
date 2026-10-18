@@ -63,6 +63,7 @@ devices. Alongside that I build hardware, EDA and ML tools for reliability and p
 | Project | Highlight |
 |---|---|
 | [neuromorphic-circuit-testing](https://github.com/thetushardudeja1/neuromorphic-circuit-testing) | 110k simulated spiking neurons, 46 defects: spike tests miss 11.4 %, supply-current readouts catch them all |
+| [sram-imc-aging-28nm-fdsoi](https://github.com/thetushardudeja1/sram-imc-aging-28nm-fdsoi) | 28 nm FD-SOI SRAM in-memory computing: sparse workloads raise read-disturb flips 37 %; uniform aging underestimates failures 1.7–2.9× |
 | [cfet-neural-amplifier](https://github.com/thetushardudeja1/cfet-neural-amplifier) | All-CFET neural recording chain: 41.6 dB, 4.34 µVrms, 42 nW amplifier; 38/38 bursts detected |
 | [ffip-approximation-placement](https://github.com/thetushardudeja1/ffip-approximation-placement) | 28 nm FD-SOI: FIP saves 14.2 % area / 18.8 % power; pre-adder approximation collapses ResNet-20 to 10 % |
 | [hls-register-level-power](https://github.com/thetushardudeja1/hls-register-level-power) | 19,113 HLS designs, 700k register power records; composition beats power change (0.935 vs 0.575) |
